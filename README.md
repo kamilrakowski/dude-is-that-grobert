@@ -1,96 +1,96 @@
-### Languages that exist in the repository, some of them are inaccurate 
+#### Languages that exist in the repository, some of them are inaccurate 
 
-English
+English <br>
 Bahasa Indonesia
 
 ---
 
-### Languages that are not in the repository and exist according to google translate
+#### Languages that are not in the repository and exist according to google translate
 
-Afrikaans
-Albanian
-Arabic
-Armenian
-Azerbaijani
-Basque
-Belarusian
-Bengali
-Bosnian
-Catalan
-Cebuano
-Chichewa
-Chinese 
-Croatian
-Czech
-Danish
-Dutch
-Esperanto
-Estonian
-Filipino
-Finnish
-French
-Galician
-Georgian
-German
-Greek
-Gujarati
-Gaitian Creole
-Hausa
-Hebrew
-Hindi
-Hmong
-Hungarian
-Icelandic
-Igbo
-Irish
-Italian
-Japanese
-Javanese
-Kannada
-Kazakh
-Khmer
-Korean
-Lao
-Latin
-Latvian
-Lithuanian
-Macedonian
-Malagasy
-Malay
-Malayalam
-Maltese
-Maori
-Marathi
-Mongolian
-Myanmar
-Nepali
-Norwegian
-Persian
-Polish
-Portuguese
-Punjabi
-Romanian
-Russian
-Serbian
-Sesotho
-Sinhala
-Slovak
-Slovenian
-Somali
-Spanish
-Sundanese
-Swahili
-Swedish
-Tajik
-Tamil
-Telugu
-Thai
-Turkish
-Ukrainian
-Urdu
-Uzbek
-Vietnamese
-Welsh
-Yiddish
-Yoruba
+Afrikaans <br>
+Albanian <br>
+Arabic <br>
+Armenian <br> 
+Azerbaijani <br> 
+Basque <br> 
+Belarusian <br> 
+Bengali <br> 
+Bosnian <br> 
+Catalan <br> 
+Cebuano <br> 
+Chichewa <br> 
+Chinese  <br> 
+Croatian <br> 
+Czech <br> 
+Danish <br> 
+Dutch <br> 
+Esperanto <br> 
+Estonian <br> 
+Filipino <br> 
+Finnish <br> 
+French <br> 
+Galician <br> 
+Georgian <br> 
+German <br> 
+Greek <br> 
+Gujarati <br> 
+Gaitian Creole <br> 
+Hausa <br> 
+Hebrew <br> 
+Hindi <br> 
+Hmong <br> 
+Hungarian <br> 
+Icelandic <br> 
+Igbo <br> 
+Irish <br> 
+Italian <br> 
+Japanese <br> 
+Javanese <br> 
+Kannada <br> 
+Kazakh <br> 
+Khmer <br> 
+Korean <br> 
+Lao <br> 
+Latin <br> 
+Latvian <br> 
+Lithuanian <br> 
+Macedonian <br> 
+Malagasy <br> 
+Malay <br> 
+Malayalam <br> 
+Maltese <br> 
+Maori <br> 
+Marathi <br> 
+Mongolian <br> 
+Myanmar <br> 
+Nepali <br> 
+Norwegian <br> 
+Persian <br> 
+Polish <br> 
+Portuguese <br> 
+Punjabi <br> 
+Romanian <br> 
+Russian <br> 
+Serbian <br> 
+Sesotho <br> 
+Sinhala <br> 
+Slovak <br> 
+Slovenian <br> 
+Somali <br> 
+Spanish <br> 
+Sundanese <br> 
+Swahili <br> 
+Swedish <br> 
+Tajik <br> 
+Tamil <br> 
+Telugu <br> 
+Thai <br> 
+Turkish <br> 
+Ukrainian <br> 
+Urdu <br> 
+Uzbek <br> 
+Vietnamese <br> 
+Welsh <br> 
+Yiddish <br> 
+Yoruba <br> 
 Zulu
