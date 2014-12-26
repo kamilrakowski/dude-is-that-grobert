@@ -2,7 +2,8 @@
 
 English <br>
 Bahasa Indonesia <br> 
-Español
+Español  <br> 
+Nederlands
 
 ---
 
@@ -24,7 +25,6 @@ Chinese  <br>
 Croatian <br> 
 Czech <br> 
 Danish <br> 
-Dutch <br> 
 Esperanto <br> 
 Estonian <br> 
 Filipino <br> 
