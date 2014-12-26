@@ -3,7 +3,8 @@
 English <br>
 Bahasa Indonesia <br> 
 Español  <br> 
-Nederlands
+Nederlands <br> 
+Deutsch
 
 ---
 
@@ -32,7 +33,6 @@ Finnish <br>
 French <br> 
 Galician <br> 
 Georgian <br> 
-German <br> 
 Greek <br> 
 Gujarati <br> 
 Gaitian Creole <br> 
