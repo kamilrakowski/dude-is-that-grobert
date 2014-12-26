@@ -1,7 +1,8 @@
 #### Languages that exist in the repository, some of them are inaccurate 
 
 English <br>
-Bahasa Indonesia
+Bahasa Indonesia <br> 
+Español
 
 ---
 
@@ -77,7 +78,6 @@ Sinhala <br>
 Slovak <br> 
 Slovenian <br> 
 Somali <br> 
-Spanish <br> 
 Sundanese <br> 
 Swahili <br> 
 Swedish <br> 
