@@ -4,7 +4,8 @@ English <br>
 Bahasa Indonesia <br> 
 Español  <br> 
 Nederlands <br> 
-Deutsch
+Deutsch <br> 
+Polski
 
 ---
 
@@ -67,7 +68,6 @@ Myanmar <br>
 Nepali <br> 
 Norwegian <br> 
 Persian <br> 
-Polish <br> 
 Portuguese <br> 
 Punjabi <br> 
 Romanian <br> 
