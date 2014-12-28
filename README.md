@@ -25,7 +25,6 @@ Bosnian <br>
 Catalan <br> 
 Cebuano <br> 
 Chichewa <br> 
-Chinese  <br> 
 Croatian <br> 
 Czech <br> 
 Danish <br> 
