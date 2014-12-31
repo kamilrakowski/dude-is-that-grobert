@@ -7,7 +7,12 @@ Nederlands <br>
 Deutsch <br> 
 Polski <br>
 attic lelainicka <br> 
-Chinese
+Chinese <br> 
+Srpski <br>
+Svenska <br> 
+Italiano <br> 
+русский <br> 
+Український <br> 
 
 ---
 
@@ -46,7 +51,6 @@ Hungarian <br>
 Icelandic <br> 
 Igbo <br> 
 Irish <br> 
-Italian <br> 
 Japanese <br> 
 Javanese <br> 
 Kannada <br> 
@@ -72,8 +76,6 @@ Persian <br>
 Portuguese <br> 
 Punjabi <br> 
 Romanian <br> 
-Russian <br> 
-Serbian <br> 
 Sesotho <br> 
 Sinhala <br> 
 Slovak <br> 
@@ -81,13 +83,11 @@ Slovenian <br>
 Somali <br> 
 Sundanese <br> 
 Swahili <br> 
-Swedish <br> 
 Tajik <br> 
 Tamil <br> 
 Telugu <br> 
 Thai <br> 
-Turkish <br> 
-Ukrainian <br> 
+Turkish <br>  
 Urdu <br> 
 Uzbek <br> 
 Vietnamese <br> 
